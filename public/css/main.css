@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    color: white;
+}
+#page-landing{
+    background: linear-gradient(329.54deg, #29b6d1 0%, #00C7C7 100%); 
+    text-align: center;
+    min-height: 100vh;
+}
+
+
+/*
+O que é uma regra CSS
+Ela é composta de seletor, propriedade e valor
+Cascata é analogo a cachoeira, e o mais ao fundo tem prioridade.
+Mesmo assim existe a especificidade, que podem mudar a prioridade.
+*/
