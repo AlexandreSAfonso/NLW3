@@ -57,7 +57,7 @@ main h1 {
     align-items: center;
     justify-content: space-between;
   }
-  .location, h1, visit p, visit a{
+  .location, h1, .visit p{
     height: initial;
     text-align: initial;
   }
